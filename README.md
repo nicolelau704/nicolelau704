@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Nicole👋
+
+I am a full-stack developer.
+
+### Languages
+- Java
+- PHP
+- C#
+
+### Social
 
 <!--
 **nicolelau704/nicolelau704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
